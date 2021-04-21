@@ -8,7 +8,7 @@ During the length of a contract the number of developers working on a project do
 
 At the end of each worked month, the software is used to create an invoice with the **total cost of development (hours per person) plus fees, in case certain fees apply**. 
 
-The goal of the kata is to think of a design that supports the calcultation of the monthly invoice. To simplify the exercise, you could think of a method or function that returns **an amount of money**. The artifact would need to be given a month, a year, a contract and the records of worked hours per developer. 
+The goal of the kata is to think of a design that supports the calcultation of the monthly invoice. To simplify the exercise, you could think of a method or function that returns **an amount of money**. The artifact would need to be given a month, a year, a contract and the records of worked hours per developer. You get to decide how would you like that information to be found in the data source. 
 
 Contract example:
 
@@ -18,4 +18,4 @@ Contract example:
     - Three mid developers at Y €/hour will work for 35 hours a week.
     - One junior developer at Z €/hour will work for 35 hours a week.
 
-
+You could come up with database tables although the more interesting part of the kata is the software design, the source code in your preferred programming language. Do not design stored procedures, make sure the login is in the code, not the database. The kata could be more valuable if you try different programming paradigms and compare them. As usual katas are useful when practices many times with a variety of approaches.  
