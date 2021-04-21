@@ -22,12 +22,12 @@ Contract example:
 
 You could come up with database tables although the more interesting part of the kata is the software design, the source code in your preferred programming language. Do not design stored procedures, make sure the login is in the code, not the database. The kata could be more valuable if you try different programming paradigms and compare them. As usual katas are useful when practices many times with a variety of approaches.  
 
-## Possible dojo structure
+## Possible dojo structure for a two hours session
 
- * The facilitator spends 15 minutes introducing the problem to the group. 
+ * The facilitator introduces the problem to the group. People ask questions. - 20 minutes
  * Each individual groups on a design alone - 20 minutes.
- * In small groups of three or four people (or pairs), the designs are shared and discussed - 30 minutes
- * One of the chosen designs is written in the form of source code - 10 minutes. 
- * The whould group get together and the code is shared with all of them.
+ * In small groups of three or four people (or pairs), the designs are shared and discussed - 40 minutes
+ * One of the chosen designs is written in the form of source code - 20 minutes. 
+ * The whould group get together and the code is shared with all of them - 20 minutes.
 
 
