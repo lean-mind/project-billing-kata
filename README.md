@@ -11,6 +11,7 @@ At the end of each worked month, the software is used to create an invoice with 
 The goal of the kata is to think of a design that supports the calcultation of the monthly invoice. To simplify the exercise, you could think of a method or function that returns an amount of money. The artifact would need to be given a month, a year, a contract and the records of worked hours per developer. 
 
 Contract example:
+
     - Starts on Date A
     - Ends on Date B
     - Two senior developers at X €/hour will work for 35 hours a week.
